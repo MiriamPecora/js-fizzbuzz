@@ -43,6 +43,4 @@ for (let isDivisible = 1; isDivisible <= 100; isDivisible++ ) {
         numberList.append(liElement)
         console.log(buzz)
     }
-    
-
 }
