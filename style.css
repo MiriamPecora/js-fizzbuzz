@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(16, 34, 34);
+}
+
+ul {
+    margin: 50px 0;
+    list-style: none;
+}
+
+h1{
+    color: white;
+    font-size: 70px;
+}
+
+#container{
+    width: 70vw;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.square {
+    width: 135px;
+    height: 135px;
+    background-color: rgb(153, 114, 138);
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: dashed 1px rgb(41, 38, 38);
+    
+}
+
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+}
+
+.pink-bg{
+    background-color: pink;
+}
+
+.green-bg{
+    background-color: rgb(4, 59, 4);
+}
+
+.gold-bg{
+    background-color: rgb(204, 173, 0);
+}
