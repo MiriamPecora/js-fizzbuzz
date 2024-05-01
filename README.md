@@ -19,7 +19,7 @@ Buon lavoro e buon divertimento! -->
         -(if) Se il valore della variabile non è divisibile né per 3 né per 5, verrà stampato in console nient'altro che il valore della variabile
         -(else if) Se il valore della variabile è divisibile sia per 3 che per 5, allora verrà sovrascritta dalla stringa "FizzBuzz" e stampata in console
         -(else if) Se la variabile ha un valore che è possibile dividere per 3, dovrà essere sovrascritta dalla stringa "Fizz" e stampata in console
-        -(else) Se la variabile ha un valore che è possibile dividere per 5, dovrà essere sovrascritta dalla stringa "Buzz" e stampata in console
+        -(else if) Se la variabile ha un valore che è possibile dividere per 5, dovrà essere sovrascritta dalla stringa "Buzz" e stampata in console
 <!-- PRIMO BONUS -->
 -Su HTML, creo un container con all'interno un tag <ul></ul>
 -Torno all'interno del ciclo for e, per ogni condizione, usufruisco della funzione append() per creare un elemento all'interno del DOM (<li></li>) con scritto il valore della variabile
